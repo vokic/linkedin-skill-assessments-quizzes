@@ -713,3 +713,47 @@
 - [ ] Make a pattern.
 
 [Adobe Help: Combine objects](https://helpx.adobe.com/illustrator/using/combining-objects.html)
+
+#### Q92. If you want to scale a selected object filled with a pattern, what can you do to make sure the pattern is scaled too?
+
+- [ ] Double-click the Scale tool and select **Uniform** scaling.
+- [ ] Select **Size Tile to Art** in the **Pattern Options** panel.
+- [ ] Select **Transform Both** from the **Transform** panel menu.
+- [ ] Select **Scale Strokes & Effects** from the **Transform** panel menu.
+
+#### Q93. A colleague asks how to change the ruler origin so the 0,0 point is in the center of the artboard. What do you say?
+
+- [ ] Open **Guides & Grid** preferences to define a new origin point.
+- [ ] Double-check at the center of the canvas with the Measure tool.
+- [ ] Drag from where the two rulers meet and use **Smart Guides** to snap the origin to the center of the artboard.
+- [ ] The ruler origin cannot be moved.
+
+#### Q94. Which stroke option is used in this image?
+
+![Stroke option](images/017.png?raw=true)
+
+- [ ] Round Cap
+- [ ] Align Stroke To Outside
+- [x] Align Stroke To Inside
+- [ ] Align Stroke To Center
+
+#### Q96 Which file format is ideal for publishing graphics for use on mobile devices and offers benefits including small file size, scalability, and editable text?
+
+- [ ] JPG
+- [ ] SWF
+- [ ] SFG
+- [ ] PNG
+
+#### Q97 You're working on a complex document with many collapsed layers. You have an object selected in the document window. How can you quickly find it in the Layers panel?
+
+- [ ] Click **Object > Show All**.
+- [x] Click the **Locate Object** button on the **Layers** panel.
+- [ ] Click **Object > Arrange > Bring to Front**.
+- [ ] Select **Show All Layers** from the **Layers** panel menu.
+
+#### Q98 When the content of a certain layer is very small relative to the overall image dimensions, what can you do to make it easier to see in the Layers panel?
+
+- [ ] On the options bar, click **Workspace > Graphics and Web**.
+- [ ] Convert the layer to Smart Object. Then, from the **Layers** panel menu, select **Merge Visible**.
+- [ ] From the **Layers** panel menu, select **Merge Visible**.
+- [x] In the **Layers** palette, select **Panel Options** from the **Layers** panel menu. Then select **Thumbnail Contents Layer Boungs**.
