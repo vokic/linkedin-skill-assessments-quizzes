@@ -258,10 +258,10 @@ git bisect good 69faab6268350295550de7d587bc323d
 - [x] Squash the related commits together into a single coherent commit.
 - [ ] Stash the related commits under a new hash.
 
-#### Q26. Which of the following is true of the git push command?
+#### Q26. Which statement is true of the the git push command?
 
-- [x] By default a push doesn't send tags to the remote repository.
-- [ ] Commits can only be tagged when they are created.
+- [x] By default, a push doesn't send tags to the remote repository.
+- [ ] Commits can be tagged only when they are created.
 - [ ] Tags are pushed to the remote repository with their respective commits.
 - [ ] Only annotated tags are automatically pushed to the remote repository with a commit.
 
