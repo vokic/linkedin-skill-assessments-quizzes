@@ -759,7 +759,7 @@ E. Perspective Warp
 
 - [ ] A
 - [ ] B
-- [ ] C
+- [x] C
 - [ ] D
 
 #### Q99. Which tool samples a group of pixels and brushes them into a new area without modifying them first?
